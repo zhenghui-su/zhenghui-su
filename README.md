@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React JS** **ReactNative** **Node**
 
-- 📫 How to connect with me **343196323@qq.com**
+- 📫 How to connect with me **suzhenghui2003@qq.com**
 
 - 📘 Blog **[zhenghui-su's Code](https://www.xiaosu2003.cn/)**
   
